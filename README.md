@@ -1,1 +1,0 @@
-This project extracts CSVs, processes them using Pandas, and loads them into PostgreSQL on AWS.
